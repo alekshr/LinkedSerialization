@@ -1,0 +1,15 @@
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/bin/Debug/net6.0/LinkedSerialization
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/bin/Debug/net6.0/LinkedSerialization.deps.json
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/bin/Debug/net6.0/LinkedSerialization.runtimeconfig.json
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/bin/Debug/net6.0/LinkedSerialization.dll
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/bin/Debug/net6.0/ref/LinkedSerialization.dll
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/bin/Debug/net6.0/LinkedSerialization.pdb
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/obj/Debug/net6.0/LinkedSerialization.csproj.AssemblyReference.cache
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/obj/Debug/net6.0/LinkedSerialization.GeneratedMSBuildEditorConfig.editorconfig
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/obj/Debug/net6.0/LinkedSerialization.AssemblyInfoInputs.cache
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/obj/Debug/net6.0/LinkedSerialization.AssemblyInfo.cs
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/obj/Debug/net6.0/LinkedSerialization.csproj.CoreCompileInputs.cache
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/obj/Debug/net6.0/LinkedSerialization.dll
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/obj/Debug/net6.0/ref/LinkedSerialization.dll
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/obj/Debug/net6.0/LinkedSerialization.pdb
+/home/alsershef/Project/LinkedSerialization/LinkedSerialization/obj/Debug/net6.0/LinkedSerialization.genruntimeconfig.cache
